@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/monikareddits"
+    android:title="r/Just Monika"
+        />
+
+    <item android:id="@+id/monikagrids"
+        android:title="Change layout"
+        />
+
+
+</menu>

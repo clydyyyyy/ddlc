@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_monika_grid.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_natsuki.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_natsuki_grid.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_natsuki_reddit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_sayori_grid.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_web.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/layout/activity_yuri_grid.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/menu/monika.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/menu/natsuki.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/menu/sayori.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/DDLC/app/src/main/res/menu/yuri.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_ddlc_plus.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_gridviewsamp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_monika.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_monika_reddit.xml" value="0.1" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_natsuki.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_natsuki_reddit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sayori.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_sayori_reddit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_web.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_webview.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_yuri.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_yuri_reddit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/custom_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/artmonika.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/monika.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/natsuki.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/sayori.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/web.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Acer/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/yuri.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

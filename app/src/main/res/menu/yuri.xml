@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/yurireddits"
+        android:title="r/Just Yuri"
+        />
+
+    <item android:id="@+id/yurigrids"
+        android:title="Change Layout"
+        />
+
+</menu>
